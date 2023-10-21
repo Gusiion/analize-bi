@@ -1,0 +1,8 @@
+
+# Arquivos do Power BI
+*.pbix
+
+# Outros arquivos ignorados
+*.log
+*.tmp
+*.bak
